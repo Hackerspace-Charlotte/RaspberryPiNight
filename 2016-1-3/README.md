@@ -1,0 +1,1 @@
+We will continue work on the water sensor. We will connect a speaker to the Arduino and if time allows, we will program the Arduino to sound the speaker when water is detected. Don't worry if you missed last week. We'll have the information available for you and the speaker setup is independent of the water sensor.
